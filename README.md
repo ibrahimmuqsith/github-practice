@@ -1,8 +1,5 @@
 # GIT Practice
 
-## Terminologies
-1. dfhgw
-
 --------------------------------------------------------------------------------
 
 ## stages
@@ -12,9 +9,9 @@
 2. modified
     - existing files edited.
 3. staging
-    - 
+    - intermediate area
 4. working area
-5. 
+    - 
 
 --------------------------------------------------------------------------------
 
@@ -53,5 +50,15 @@
 ## working with teams
 1. git checkout -b 'team1'
     - creating a branch with team1
-2. git checkout -b 'team1'
-    - creating a branch with team1
+    - but this branch is not pushed to remote. so no one wil see it yet.
+2. git push -u origin 'team1'
+    - pushes the local branch to remote.
+3. PR (Pull Request)
+    - requesting to team1 branch code to main branch code.
+4. git branch
+    - list all the branches
+5. git branch checkout team2
+    - switch to team2 branch
+6. git pull origin main
+    - pulls updates from main to team2 branch
+7. 
