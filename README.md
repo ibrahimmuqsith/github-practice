@@ -11,7 +11,6 @@
 3. staging
     - intermediate area
 4. working area
-    - 
 
 --------------------------------------------------------------------------------
 
@@ -61,4 +60,5 @@
     - switch to team2 branch
 6. git pull origin main
     - pulls updates from main to team2 branch
-7. 
+
+--------------------------------------------------------------------------------
